@@ -1,11 +1,23 @@
 # PeopleDoc
 
-## Company blurb
+At PeopleDoc, we are passionate entrepreneurs, eager to learn and invent tomorrow’s game-changing solutions.
+Our team members are creative, humble, open-minded and totally committed to customer success.
 
-⚠ We don't have much information about this company yet!
+Focus on technology
 
-If you know something we don't, help us fill it in!  Here's how:
+The PeopleDoc's DNA is technology. Our R&D team is composed by more than 70 high-skilled people dedicated in delivering good code. We believe in micro-service approach and zero down time deployment. The team is completely autonomous and has all latitude to make its own choice.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/peopledoc.md)
+Web, reliable and performant
+python django java dropwizard postgresql rabbit mqredis openstack ansible ember.js
+Our platform is composed by small autonomous components (written in Python/Django or Java/Dropwizard) which publish APIs. Every component is automatically deployed and configured using Salt formulas on a Openstack environment.
+
+Company Benefits
+
+Remote-Friendly
+Off sites
+Great equipment (choice of Mac or Lenovo)
+Employee Stock Option Plan
+Flex Office
+Allowance for Training/Seminars
+Health Plan
+New Office located in the heart of Paris
